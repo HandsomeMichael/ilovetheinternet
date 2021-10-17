@@ -1,0 +1,17 @@
+explosion.gif
+
+spam explosion gif everywhere.
+also have mod config.
+
+very cool
+
+Changelog :
+
+v.0.1.1
+
+- Added icon
+- Added explode transparant config
+
+v.0.1
+
+- Initial release
